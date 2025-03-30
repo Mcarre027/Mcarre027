@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Me contacter :
-- LinkedIn : [Mathieu Carré](https://www.linkedin.com/in/mathieucarre/](https://www.linkedin.com/in/matthieu-carre-19a3092b8/)
+- LinkedIn : [Mathieu Carré]([https://www.linkedin.com/in/mathieucarre/](https://www.linkedin.com/in/matthieu-carre-19a3092b8/))
 - Email : carrehomebusiness@gmail.com
 
 ---
